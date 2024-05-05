@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+p {
+  font-family: sans-serif;
+}
+h3 {
+  font-family: sans-serif;
+}
+h4 {
+  font-family: sans-serif;
+}
+
+h5 {
+  font-family: sans-serif;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
